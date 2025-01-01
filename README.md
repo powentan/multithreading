@@ -1,7 +1,7 @@
 # Multithreading
 
 ## How to Run
-```python
+```shell
 python ./src/main.py
 ```
 
@@ -13,4 +13,4 @@ python ./src/main.py
 ```
 
 ## Code Running Result
-![image](./assets/running_result.gif)
+<img src="./assets/running_result.gif" alt="code running result" height="800" />
